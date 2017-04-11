@@ -1,0 +1,10 @@
+{
+  "name": "hl-line",
+  "main": "./lib/index.js",
+  "version": "1.0.0a",
+  "description": "Highlight every line with a cursor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
