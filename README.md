@@ -1,1 +1,1 @@
-Highlight every line with a cursor
+Highlight every line with a cursor using theme colors

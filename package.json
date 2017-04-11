@@ -1,10 +1,10 @@
 {
-  "name": "hl-line",
+  "name": "highligh-line-mode",
   "main": "./lib/index.js",
-  "version": "1.0.0a",
-  "description": "Highlight every line with a cursor",
+  "version": "1.0.0",
+  "description": "Highlight every line with a cursor using theme colors",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.15.0"
   }
 }
