@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https@github.com:felipecrp/atom-highlight-cursor-line.git"
+    "url": "git+https://github.com/felipecrp/atom-highlight-cursor-line.git"
   },
   "homepage": "https://github.com/felipecrp/atom-highlight-cursor-line"
 }
