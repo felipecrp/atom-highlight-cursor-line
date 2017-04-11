@@ -1,12 +1,15 @@
 {
   "name": "highlight-cursor-line",
   "main": "./lib/index.js",
-  "version": "0.4.0",
+  "version": "0.3.0",
   "description": "Highlight every line with a cursor using theme colors",
   "license": "MIT",
   "engines": {
     "atom": ">=1.15.0"
   },
-  "repository": "https://github.com/felipecrp/atom-highlight-cursor-line.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipecrp/atom-highlight-cursor-line.git"
+  },
   "homepage": "https://github.com/felipecrp/atom-highlight-cursor-line"
 }
