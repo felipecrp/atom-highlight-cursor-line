@@ -7,5 +7,5 @@
   "engines": {
     "atom": ">=1.15.0"
   },
-  "repository": "https://github.com/felipecrp/highlight-line-mode"
+  "repository": "https://github.com/felipecrp/atom-highlight-line-mode"
 }
