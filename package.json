@@ -1,5 +1,5 @@
 {
-  "name": "highligh-line-mode",
+  "name": "highligh-cursor-line",
   "main": "./lib/index.js",
   "version": "1.0.0",
   "description": "Highlight every line with a cursor using theme colors",
@@ -7,5 +7,6 @@
   "engines": {
     "atom": ">=1.15.0"
   },
-  "repository": "https://github.com/felipecrp/atom-highlight-line-mode"
+  "repository": "git@github.com:felipecrp/atom-highlight-cursor-line.git",
+  "homepage": "https://github.com/felipecrp/atom-highlight-cursor-line"
 }
