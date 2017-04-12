@@ -1,7 +1,7 @@
 {
   "name": "highlight-cursor-line",
   "main": "./lib/index.js",
-  "version": "0.8.0",
+  "version": "0.1.1",
   "description": "Highlight every line with a cursor using theme colors",
   "license": "MIT",
   "engines": {
